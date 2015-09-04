@@ -6,7 +6,7 @@ A [React](http://facebook.github.io/react/) component to create animated text in
 
 ### Demo & Example
 
-A live demo is available [here](http://f15gdsy.github.io/Animated-Text-Input/).
+[A live demo is available](http://f15gdsy.github.io/Animated-Text-Input/).
 
 or, you can download this repo and run it locally. Run:
 
