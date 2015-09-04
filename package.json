@@ -1,6 +1,6 @@
 {
   "name": "animated_input",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A React component to create animated text input.",
   "main": "index.js",
   "scripts": {
