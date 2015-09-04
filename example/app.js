@@ -22,6 +22,11 @@ let animatedInputStyle = {
     fontSize: '3vmin'
 };
 
+let linkStyle = {
+    margin: 100,
+    fontSize: '2vmin'
+};
+
 let App = React.createClass ({
     render () {
         return (
@@ -43,6 +48,7 @@ let App = React.createClass ({
                         />
                     {' */'}
                 </span>
+                <p style={linkStyle}><a href='https://github.com/f15gdsy/Animated-Text-Input/tree/master'>Address</a> on Github.</p>
             </div>
         );
     }
