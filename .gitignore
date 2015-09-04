@@ -1,0 +1,10 @@
+node_modules
+bower_components
+jspm_packages
+*.log
+.DS_Store
+Thumbs.db
+/build/
+/releases/
+/tmp/
+/temp/
