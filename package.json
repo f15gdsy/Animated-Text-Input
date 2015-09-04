@@ -2,7 +2,7 @@
   "name": "animated-text-input",
   "version": "1.0.0",
   "description": "A React component to create animated text input.",
-  "main": "index.js",
+  "main": "src/InputAnimation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dist": "browser-sync start"
@@ -32,6 +32,8 @@
   },
   "jspm": {
     "directories": {},
+    "main": "src/InputAnimation.js"
+    "format": "es6",
     "dependencies": {
       "react": "npm:react@^0.13.3"
     },
